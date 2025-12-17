@@ -15,16 +15,6 @@ cyart-vapt-team/
 ```
 ---
 
-
-
----
-
-## 🚀 Contributing
-
-This repository is owned by **Akhilesh Palve** as part of the CyArt Cybersecurity Internship. Contributions should align with VAPT best practices. If you’d like to collaborate, please raise an issue or contact the author.
-
----
-
 ## 📫 Contact
 
 **Akhilesh Palve**  
