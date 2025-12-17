@@ -2,6 +2,30 @@
 
 This repository captures the **entire VAPT lifecycle** practiced during the CyArt internship:
 
+---
+
+# 📁 Directory Structure
+- Below is the directory structure of the file.
+```bash
+Week 2/
+├── Vulnerability-Scanning/
+│   ├── openvas_report.pdf
+│   ├── nmap_results.txt
+│   ├── nikto_results.txt
+│
+├── Reconnaissance/
+│   ├── recon_notes.pdf
+│
+├── Exploitation/
+│   ├── metasploit_logs.txt
+│
+│── Post-Exploitation/
+│   ├── evidence_hashes.txt
+│
+├── Final-Report/
+│   ├── week2_vapt_report.pdf
+```
+---
 ## 🔹 Weekly VAPT Tasks
 Each week contains:
 - Detailed **PDF reports**
@@ -9,6 +33,8 @@ Each week contains:
 - Tools used and commands executed
 - Risk assessment summaries
 - Remediation recommendations
+
+---
 
 ## 🔹 Capstone Project
 A comprehensive end-to-end VAPT engagement using:
