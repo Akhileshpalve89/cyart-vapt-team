@@ -10,24 +10,7 @@ This repository contains structured deliverables for multiple weekly assignments
 ```bash
 cyart-vapt-team/
 │
-├── Week 2/
-│   ├── Vulnerability-Scanning/
-│   │   ├── openvas_report.pdf
-│   │   ├── nmap_results.txt
-│   │   ├── nikto_results.txt
-│   │
-│   ├── Reconnaissance/
-│   │   ├── recon_notes.pdf
-│   │
-│   ├── Exploitation/
-│   │   ├── metasploit_logs.txt
-│   │
-│   ├── Post-Exploitation/
-│   │   ├── evidence_hashes.txt
-│   │
-│   ├── Final-Report/
-│   │   ├── week2_vapt_report.pdf
-│
+├── Week2
 ├── README.md
 ```
 ---
